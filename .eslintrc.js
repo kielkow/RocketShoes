@@ -41,5 +41,6 @@ module.exports = {
       "depth": 3,
     }],
     "react/state-in-constructor": 'off',
+    'no-console': ['error', { allow: ['tron'] }]
   },
 };
