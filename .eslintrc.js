@@ -40,5 +40,6 @@ module.exports = {
       ],
       "depth": 3,
     }],
+    "react/state-in-constructor": 'off',
   },
 };
