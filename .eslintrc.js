@@ -41,6 +41,7 @@ module.exports = {
       "depth": 3,
     }],
     "react/state-in-constructor": 'off',
+    'no-param-reassign': 'off',
     'no-console': ['error', { allow: ['tron'] }]
   },
 };
